@@ -1,0 +1,2 @@
+Israel's data is available from https://data.gov.il/dataset/covid-19
+Download and store the XLSX files in this directory.

@@ -1,0 +1,4 @@
+[submodule "nyt_data"]
+	path = nyt_data
+	url = https://github.com/nytimes/covid-19-data.git
+	ignore = all

@@ -1,6 +1,6 @@
-# Coronavirus Data Notebook
+# Coronavirus Data Notebooks
 
-A Python notebook that leverges public coronavirus datasets to new provide insights.
+Python notebooks that leverge public coronavirus datasets to new provide insights.
 
 This is an experimental project. The numbers may be wrong. It should not be relied on for any decision making without additional review.
 
@@ -10,8 +10,9 @@ Currently includes analysis of data from:
 * Add more! Please make a pull request with your code that loads new data and provides some insight with it.
 
 Included demonstrations:
-* An algorithm for detecting new hotspots in the USA using the NYT data
-* Predictions for average recovery times and asymptomatic cases using the Israeli data
+* An algorithm for detecting new hotspots in the USA using the NYT data, in corona_notebook.ipynb
+* Predictions for average recovery times and asymptomatic cases using the Israeli data, in corona_notebook.ipynb
+* An interactive map with the predicted hotspots in the USA, in dashboards.ipynb
 
 Contributions welcome! Contributions can include any kind of new analysis, new datasets, making the code nicer, etc.
 

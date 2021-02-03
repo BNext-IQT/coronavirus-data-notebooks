@@ -12,7 +12,8 @@ Currently includes analysis of data from:
 Included demonstrations:
 * An algorithm for detecting new hotspots in the USA using the NYT data, in corona_notebook.ipynb
 * Predictions for average recovery times and asymptomatic cases using the Israeli data, in corona_notebook.ipynb
-* An interactive map with the predicted hotspots in the USA, in dashboards.ipynb
+* An interactive map with the predicted hotspots in the USA, using the NYT data, in dashboards.ipynb
+* [NEW] Correlating vaccine and hospital data, using the Israeli data, in vaccines.ipynb
 
 Contributions welcome! Contributions can include any kind of new analysis, new datasets, making the code nicer, etc.
 
